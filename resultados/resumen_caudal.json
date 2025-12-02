@@ -1,0 +1,8 @@
+{
+  "n_eventos": 105,
+  "volumen_total_frio_L": 43674626.341,
+  "volumen_total_caliente_L": 4513664.571,
+  "volumen_total_L": 48188290.913,
+  "caudal_medio_global_Lmin": 682.494,
+  "umbral_Lmin": 0.3
+}

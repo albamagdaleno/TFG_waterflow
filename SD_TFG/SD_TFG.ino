@@ -23,7 +23,7 @@ String Wifi_username = "";
 String Aio_server = "io.adafruit.com" ;
 int Aio_serverport = 1883 ;
 String Aio_username = "amagdr00" ;
-String Aio_key = "";
+String Aio_key = "ai";
 String Feed_caudal_frio= "amagdr00/feeds/caudal_frio";
 String Feed_caudal_caliente = "amagdr00/feeds/caudal_caliente";
 
